@@ -1,0 +1,58 @@
+h1.entrada {
+  font-family: 'Anton', sans-serif;
+  color: #EDFFCC;
+}
+
+.entrada p {
+  font-family: 'Questrial';
+  font-size: 2rem;
+  color: #EDFFCC; 
+  text-align:left
+}
+
+.entrada section {
+  margin-inline: 5rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 3rem;
+  align-items: center;
+}
+
+.entrada {
+  background-color: #008037;
+}
+
+.comecar {
+  background-color: #43B14B;
+  padding: 1rem;
+  width: 10rem;
+  border-radius: 5rem;
+}
+
+.pe {
+  background: #32620E;
+}
+
+.errou {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.erro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.erro a{
+  background: #86A135;
+  padding: 1rem;
+  border-radius:5rem;
+  cursor: pointer;
+}

@@ -1,0 +1,133 @@
+main p{
+  text-align: center;
+}
+
+.pgp{
+    background-color: #32620E;
+}
+
+.fs{
+  font-family: 'Anton', sans-serif;
+  color: #EDFFCC;
+  background-color: #3F663D;
+  padding-inline: 1rem;
+  
+}
+
+.ss{
+  font-family: 'Anton', sans-serif;
+  color: #EDFFCC;
+  background-color: #3F663D;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding-bottom: 3rem;
+}
+
+
+.divclima{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  gap: 5rem;
+  font-size: 15;
+}
+
+.divclima p {
+  width: 30rem;
+  text-align: left;
+}
+
+.divclima img{
+  height: 45rem;
+  width: 32rem;
+}
+
+.fs {
+  display: flex;
+}
+
+.fs h1{
+  font-size: 55px;
+}
+
+.inicio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-inline: 2.5rem;
+  margin-block:
+
+  duas calça
+}
+
+.inicio p{
+  font-size: 21px;
+  text-align: center;
+}
+
+.fs img{
+  height: 50rem;
+  width: 50rem;
+}
+
+.pclimas1{
+  display:flex;
+  justify-content:center;
+}
+
+.pclimas2{
+  display:flex;
+  justify-content:center;
+}
+
+.atalho {
+  display: flex;
+  flex-direction: column;
+}
+
+.clima{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7rem;
+}
+
+.clima p {
+  color: #EDFFCC;
+  font-size: 1.5rem;
+}
+
+.seta{
+  margin-right: 20rem;
+}
+.bvq a {
+  font-family: arimo;
+  width: 375px;
+}
+
+.Bconhecimentos a {
+  font-family: arimo;
+  background-color: #008037;
+  border-radius: 3rem;
+  margin: 2rem;
+  padding: 1rem;
+  border-style: none;
+  text-align: center;
+}
+
+.atalho a {
+  font-family: arimo;
+  background-color: #86A135;
+  border-radius: 3rem;
+  margin: 2rem;
+  padding: 1rem;
+  border-style: none;
+  text-align: center;
+}
+
+.atalho img {
+  width: 15rem;
+  height: 10rem;
+}
